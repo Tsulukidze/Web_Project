@@ -1,0 +1,191 @@
+#b01{
+    background-color:wheat;
+}
+#baslik_1
+{
+    text-align: center;
+    background-color:darkred;
+    color:snow; 
+    font-size: 35pt;
+    font-weight: bold;
+    min-width: 600px;
+    padding: 30px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+#nav{
+   
+    float:left;
+    height:550px;
+    background-color: wheat;
+    width: 15%;
+    padding-left: 10px;
+}
+#section1{
+    float:left;
+    background-color:wheat;
+    height: 550px;
+    width: 45%;
+    padding-top: 50px;
+}
+#section2{
+    float:left;
+    background-color:wheat;
+    height: 550px;
+    width: 40%;
+    padding-top: 68px;
+
+}
+
+
+footer{
+    background-color:rgb(138, 13, 13);
+    color:whitesmoke;
+}
+
+.link , link:hover, link:visited
+{
+    text-decoration: none;
+    color:whitesmoke;
+}
+
+#table1{
+    background-color:red;   
+        
+}
+#td1{
+    
+    padding:32px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: large;
+   
+
+}
+
+#td1:hover{    
+    background-color:darkred;
+    text-decoration: none;
+
+}
+
+.sifirla{
+    clear:both;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------*/
+
+
+#baslik
+{
+    text-align: center;
+    background-color:darkred;
+    color:snow; 
+    font-size: 35pt;
+    font-weight: bold;
+    min-width: 600px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#div1{
+    padding-top: 20px;
+}
+#button
+{
+    border-radius: 8px;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+
+#div2
+{
+    margin-top: 20px;
+    height: 560px;
+    
+  
+}
+
+#h1{
+    text-align: center;
+    color:whitesmoke;
+   
+}
+
+#li1{
+    margin-left: 60px;
+    font-size: 18px;
+    color:darkred;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------*/
+
+#table2, th , td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+#th2{
+    width: 120px;
+    text-align: center;
+}
+
+#th3{
+    width: 600px;
+    text-align: center;
+}
+
+#slider
+{
+   height: 560px;
+   width: 100%;
+
+}
+
+#h4{
+    text-align: center;
+  
+    color:red;
+    margin-top: 30px;
+    
+}
+
+#psiir
+{
+    font-size: 15pt;
+    text-align: left;
+    color:brown;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+#li2{
+    
+    color:red;
+    font-size: 14pt;
+}
+#li3{
+    color:darkslategray;
+    font-size: 14pt;
+}
+
+#fieldset
+{
+    text-align: left;
+    margin-left: 80px;
+    font-size: 14pt;
+}
+#legend
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    font-weight: bold;
+    color: darkred;
+}
