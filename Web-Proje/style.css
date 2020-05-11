@@ -1,44 +1,6 @@
 #b01{
     background-color:wheat;
 }
-#baslik_1
-{
-    text-align: center;
-    background-color:darkred;
-    color:snow; 
-    font-size: 35pt;
-    font-weight: bold;
-    min-width: 600px;
-    padding: 30px;
-    border-radius: 5px;
-    margin-top: 20px;
-    font-weight: bold;
-}
-
-
-#nav{
-   
-    float:left;
-    height:550px;
-    background-color: wheat;
-    width: 15%;
-    padding-left: 10px;
-}
-#section1{
-    float:left;
-    background-color:wheat;
-    height: 550px;
-    width: 45%;
-    padding-top: 50px;
-}
-#section2{
-    float:left;
-    background-color:wheat;
-    height: 550px;
-    width: 40%;
-    padding-top: 68px;
-
-}
 
 
 footer{
@@ -46,22 +8,21 @@ footer{
     color:whitesmoke;
 }
 
-.link , link:hover, link:visited
-{
-    text-decoration: none;
+a:link , a:visited , a:active, a:hover{
     color:whitesmoke;
+    text-decoration: none;
+    background-color: transparent;
 }
+    
 
-#table1{
-    background-color:red;   
-        
-}
+
 #td1{
     
     padding:32px;
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif; 
     font-size: large;
+  
    
 
 }
